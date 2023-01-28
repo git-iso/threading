@@ -1,0 +1,47 @@
+1. Find minimum of egg function.
+0. Quit
+1
+Enter number of climbers.
+3
+New lowest minimum:New lowest minimum:New lowest minimum:-148.961-40.2088 | New lowest x value:-567.618 | New lowest x value: | New lowest x value:-347.312 | New lowest y value:433.48-266.991
+New lowest minimum:162.303-707.22 | New lowest x value:277.106 | New lowest y value:-491.838
+ | New lowest y value:-374.73
+ | New lowest y value:497.546
+New lowest minimum:-739.776 | New lowest x value:-469.85 | New lowest y value:-399.373
+New lowest minimum:-827.42 | New lowest x value:430.909 | New lowest y value:457.236
+New lowest minimum:-884.235 | New lowest x value:452.336 | New lowest y value:460.671
+New lowest minimum:-906.596 | New lowest x value:502.743 | New lowest y value:398.556
+New lowest minimum:-918.064 | New lowest x value:434.704 | New lowest y value:453.621
+New lowest minimum:-926.303 | New lowest x value:471.995 | New lowest y value:423.185
+New lowest minimum:-948.378 | New lowest x value:474.807 | New lowest y value:429.922
+New lowest minimum:-949.726 | New lowest x value:476.165 | New lowest y value:426.745
+New lowest minimum:-950.126 | New lowest x value:477.126 | New lowest y value:427.933
+New lowest minimum:-955.696 | New lowest x value:482.167 | New lowest y value:432.466
+New lowest minimum:-957.453 | New lowest x value:511.747 | New lowest y value:402.923
+New lowest minimum:-957.582 | New lowest x value:511.414 | New lowest y value:403.832
+New lowest minimum:-957.852 | New lowest x value:511.484 | New lowest y value:403.765
+New lowest minimum:-958.654 | New lowest x value:511.923 | New lowest y value:403.362
+^C
+Current global best = -958.654, x = 511.923, y = 403.362
+Exiting thread.
+Exiting thread.
+Exiting thread.
+Returned to menu.
+1. Find minimum of egg function.
+0. Quit
+1
+Enter number of climbers.
+4
+New lowest minimum:-959.011 | New lowest x value:511.931 | New lowest y value:403.579
+New lowest minimum:-959.191 | New lowest x value:511.87 | New lowest y value:404.202
+New lowest minimum:-959.336 | New lowest x value:511.945 | New lowest y value:404.507
+^C
+Current global best = -959.336, x = 511.945, y = 404.507
+Exiting thread.
+Exiting thread.
+Exiting thread.
+Exiting thread.
+Returned to menu.
+1. Find minimum of egg function.
+0. Quit
+0
